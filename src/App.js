@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import Main from "./components/Main";
+import "./index.css";
+import NavbarAirbnb from "./airbnb/NavbarAirbnb";
+import Hero from "./airbnb/Hero";
+import Nav from "./journal/Nav";
+import data from "./journal/data";
+import Header from "./memeGenerator/Header";
+import Meme from "./memeGenerator/Meme";
+import Football from "./ucenje/Goal";
+import Api from "./ucenje/Api";
+import Navbar from "./ribarnica/Navbar";
+import Card from "./ribarnica/Card";
+import Cart from "./ribarnica/Cart"
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      < Card />
     </div>
-  );
+  )
 }
 
 export default App;

@@ -1,0 +1,23 @@
+.cards {
+    height: 25%;
+    display: flex;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.cards--img {
+    
+    width: 15em;
+    border-radius: 5px;
+    
+}
+
+.text {
+    padding: 10px;
+}
+.viewOnGoogle {
+    padding-left: 10px;
+}
+hr {
+    margin-left: 40px;
+}

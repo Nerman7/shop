@@ -1,0 +1,9 @@
+body {
+  top: 0px;
+  left: 0px;
+  width: 1600px;
+  height: 900px;
+  background: transparent linear-gradient(180deg, #ffffff 0%, #ffffff00 100%) 0%
+    0% no-repeat padding-box;
+  opacity: 1;
+}

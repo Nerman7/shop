@@ -1,0 +1,22 @@
+
+.navbar {
+    display: flex;
+    background-color: #21222A;
+    font-family: Inter;
+    color: #61DAFB;
+    font-weight: 700;
+    font-size: 22px;
+    padding-left: 20px;
+   
+}
+#navbarRight {
+    font-size: 20px;
+    padding: 20px 20px 20px 220px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Inter;
+    text-align: right;
+    flex-grow: 1;
+    padding-right: 27px;
+    color: #DEEBF8;
+}

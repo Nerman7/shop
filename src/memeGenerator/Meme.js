@@ -2,6 +2,8 @@ import React from "react";
 import "./meme.css";
 
 function Meme() {
+
+ 
   return (
     <main>
       <form className="form">
@@ -12,5 +14,7 @@ function Meme() {
     </main>
   );
 }
+
+
 
 export default Meme;

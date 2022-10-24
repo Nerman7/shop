@@ -4,11 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-src/airbnb/
-src/Component/
-src/components/
-src/journal/
-src/memeGenerator/
+
 
 # testing
 /coverage
